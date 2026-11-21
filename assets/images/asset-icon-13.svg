@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 400" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+
+              <path class="spk-mane-base" d="M20,310 C90,250 70,150 150,96 C220,50 300,70 372,26">
+              </path>
+
+              <path class="spk-mane-base" d="M6,356 C100,312 96,206 186,150 C262,102 330,128 394,74">
+              </path>
+
+              <path class="spk-mane-base" d="M34,258 C96,200 86,112 160,52 C214,10 300,26 366,-6">
+              </path>
+
+              <path class="spk-mane-glow spk-m1" d="M20,310 C90,250 70,150 150,96 C220,50 300,70 372,26">
+              </path>
+
+              <path class="spk-mane-glow spk-m2" d="M6,356 C100,312 96,206 186,150 C262,102 330,128 394,74">
+              </path>
+
+              <path class="spk-mane-glow spk-m3" d="M34,258 C96,200 86,112 160,52 C214,10 300,26 366,-6">
+              </path>
+
+            </svg>

@@ -1,0 +1,24 @@
+INDEXING SETUP — READ BEFORE DEPLOYMENT
+
+Target website: https://en-sugardefenderpro.vercel.app
+Sitemap: https://en-sugardefenderpro.vercel.app/sitemap.xml
+Robots: https://en-sugardefenderpro.vercel.app/robots.txt
+
+BING / INDEXNOW
+1. The file 02418f05b062bfdb5bd4d5d23c4fc44d.txt is included in the site root. Deploy it so it is publicly available at:
+   https://en-sugardefenderpro.vercel.app/02418f05b062bfdb5bd4d5d23c4fc44d.txt
+2. In Bing Webmaster Tools, add/verify this domain and submit https://en-sugardefenderpro.vercel.app/sitemap.xml.
+3. After deployment, submit the homepage and important URLs in URL Inspection / IndexNow.
+4. IndexNow key: 02418f05b062bfdb5bd4d5d23c4fc44d
+   Key location: https://en-sugardefenderpro.vercel.app/02418f05b062bfdb5bd4d5d23c4fc44d.txt
+   Do not delete or rename the key file.
+
+GOOGLE
+1. Add this exact domain to Google Search Console (Domain property recommended).
+2. Complete DNS TXT verification for the Vercel domain, or add the HTML meta verification token supplied by Search Console.
+3. Submit https://en-sugardefenderpro.vercel.app/sitemap.xml in Search Console.
+4. Use URL Inspection to request indexing for the homepage and key pages after deployment.
+
+IMPORTANT
+Search engines decide independently whether and when to crawl/index pages. Sitemap submission and IndexNow notification do not guarantee indexing.
+The Google/Bing verification tokens found in the supplied source HTML belong to the original domain and have NOT been copied because they will not verify this Vercel domain.
